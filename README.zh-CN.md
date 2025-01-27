@@ -540,7 +540,7 @@ $ docker run -d -p 3210:3210 \
 
 > \[!NOTE]
 >
-> 完整环境变量可见 [📘 环境变量][docs-env-var]
+> 完整环境变量可见 [📘 环境 变量][doc s- env-var]
 
 <br/>
 
@@ -885,3 +885,4 @@ This project is [Apache 2.0](./LICENSE) licensed.
 [vercel-link]: https://chat-preview.lobehub.com
 [vercel-shield]: https://img.shields.io/badge/vercel-online-55b467?labelColor=black&logo=vercel&style=flat-square
 [vercel-shield-badge]: https://img.shields.io/badge/TRY%20LOBECHAT-ONLINE-55b467?labelColor=black&logo=vercel&style=for-the-badge
+[doc s- env-var]: 
